@@ -1,0 +1,19 @@
+{
+  "name": "drugdex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reylim15/Drugdex.git"
+  },
+  "author": "Rey_Daniel_Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reylim15/Drugdex/issues"
+  },
+  "homepage": "https://github.com/Reylim15/Drugdex#readme"
+}
