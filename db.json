@@ -1,0 +1,22 @@
+{
+	"drugs": [
+		{
+			"id": 1,
+			"genericName": "Aminophylline 250mg/10ml, 500mg/20ml vial(25mg/ml) (Single dose vial)",
+			"brandname": "",
+			"usualDose": "Loading Dose: 5-6mg/kg at rate of lean body weight. Maintenancae dose varies by patien population. ",
+			"preperation": "Standard concentration 500mg in 500 ml D5W or NS(1mg/ml",
+            "stability": "24hrs RT/REF",
+            "stickers": "Do not refrigerate",
+			"specialComments": ""
+		},
+		{"id": 2,
+			"genericName": "Aminophylline 250mg/10ml, 500mg/20ml vial(25mg/ml) (Single dose vial)",
+			"brandname": "",
+			"usualDose": "Loading Dose: 5-6mg/kg at rate of lean body weight. Maintenancae dose varies by patien population. ",
+			"preperation": "Standard concentration 500mg in 500 ml D5W or NS(1mg/ml",
+            "stability": "24hrs RT/REF",
+            "stickers": "Do not refrigerate",
+			"specialComments": ""}
+	]
+}
