@@ -14,12 +14,12 @@
                  "NSmethodstickers":["do not refrigerate","no shaking"]
                 },
 			"Stabiltiy": {
-				"refrigerated": "24Hrs",
-				"Unrefrigerated": "N/A"
+				"refrigerated": 24,
+				"Unrefrigerated": 60
 			},
 			
             "specialComments": "IV STUFFS",
-            "dateCreated": "#",
+            "dateCreated": "",
             "approvedBy": ""
 		}
 	]
