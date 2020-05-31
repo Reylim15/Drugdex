@@ -18,8 +18,30 @@
 				"Unrefrigerated": 60
 			},
 			
-            "specialComments": "IV STUFFS",
-            "dateCreated": "",
+            "specialComments": "None",
+            "dateUpdated": "",
+            "approvedBy": ""
+		},
+		{
+			"genericName": "",
+			"brandName": [ "" ],
+			"usualDoses": {
+				"loadingDose": "",
+				"maintenceDose": ""
+			},
+			"preperation": {
+                 "D5W": "", 
+                 "D5Wmethodstickers":[""],
+                 "NS": "",
+                 "NSmethodstickers":[""]
+                },
+			"Stabiltiy": {
+				"refrigerated": 0,
+				"Unrefrigerated": 0 
+			},
+			
+            "specialComments": "",
+            "dateUpdated": "",
             "approvedBy": ""
 		}
 	]
