@@ -1,22 +1,26 @@
 {
 	"drugs": [
 		{
-			"id": 1,
 			"genericName": "Aminophylline 250mg/10ml, 500mg/20ml vial(25mg/ml) (Single dose vial)",
-			"brandname": "",
-			"usualDose": "Loading Dose: 5-6mg/kg at rate of lean body weight. Maintenancae dose varies by patien population. ",
-			"preperation": "Standard concentration 500mg in 500 ml D5W or NS(1mg/ml",
-            "stability": "24hrs RT/REF",
-            "stickers": "Do not refrigerate",
-			"specialComments": ""
-		},
-		{"id": 2,
-			"genericName": "Amiodorone 50mg/ml",
-			"brandname": "Cordorone 50mg/ml",
-            "usualDose": "Bolus dose: 150mg over 10mins.",
-			"preperation": "",
-            "stability": "24hrs RT/REF",
-            "stickers": "Do not Refreigerate, Do not Tube, Must be filtereds",
-			"specialComments": "Send with 0.2 micron in line filter No.12273-48, Amiodarone is incompatible in NS"}
+			"brandName": [ "Norphyl", "Phyllocontin", "Truphylline]" ],
+			"usualDoses": {
+				"loadingDose": "5-6mg/kg at rate of lean body weight.",
+				"maintenceDose": "Varies by patient population."
+			},
+			"preperation": {
+                 "D5W": "Similar to NS", 
+                 "D5Wmethodstickers":["do not refrigerate","no shaking"],
+                 "NS": "Similar to D5W",
+                 "NSmethodstickers":["do not refrigerate","no shaking"]
+                },
+			"Stabiltiy": {
+				"refrigerated": "24Hrs",
+				"Unrefrigerated": "N/A"
+			},
+			
+            "specialComments": "IV STUFFS",
+            "dateCreated": "#",
+            "approvedBy": ""
+		}
 	]
 }
