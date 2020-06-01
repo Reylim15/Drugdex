@@ -3,16 +3,7 @@
 		{
 			"genericName": "Aminophylline 250mg/10ml, 500mg/20ml vial(25mg/ml) (Single dose vial)",
 			"brandName": [ "Norphyl", "Phyllocontin", "Truphylline]" ],
-			"usualDoses": {
-				"loadingDose": "5-6mg/kg at rate of lean body weight.",
-				"maintenceDose": "Varies by patient population."
-			},
-			"preperation": {
-                 "D5W": "Similar to NS", 
-                 "D5Wmethodstickers":["do not refrigerate","no shaking"],
-                 "NS": "Similar to D5W",
-                 "NSmethodstickers":["do not refrigerate","no shaking"]
-                },
+			"preperationComments": "",
 			"Stabiltiy": {
 				"refrigerated": 24,
 				"Unrefrigerated": 60
@@ -23,19 +14,58 @@
             "approvedBy": ""
 		},
 		{
-			"genericName": "Amiodarone",
-			"brandName": [ "Corodone" ],
-			"preperationComments": {
-		
-			},
-			"preperation": "" 
-                ,
+			"genericName": "",
+			"brandName": [""],
+			"preperationComments": "",
 			"Stabiltiy": {
 				"refrigerated": 0,
-				"Unrefrigerated": 0 
+				"Unrefrigerated": 0
 			},
 			
             "specialComments": "",
+            "dateUpdated": "",
+            "approvedBy": ""
+		},
+		{
+			"genericName": "",
+			"brandName": [""],
+			"preperationComments": "",
+			"Stabiltiy": {
+				"refrigerated": 0,
+				"Unrefrigerated": 0
+			},
+			
+            "specialComments": "",
+            "dateUpdated": "",
+            "approvedBy": ""
+		},
+		{
+			"genericName": "Amiodarone",
+			"brandName": [ "Corodone" ],
+			"preperationComments": "This should be mad in the IV room.",
+			"preperation": "blah blah blah" 
+                ,
+			"Stabiltiy": { 
+				"refrigerated": 24,
+				"Unrefrigerated": 2 
+			},
+			
+            "specialComments": "Send with a 0.2 micron filter, NS is incompatible with NS.",
+            "dateUpdated": "",
+            "approvedBy": ""
+		},
+		{
+			"genericName": "Amiodarone",
+			"brandName": [ "Corodone" ],
+			"preperationComments": "This should be mad in the IV room.",
+			"preperation": "blah blah blah" 
+                ,
+			"Stabiltiy": { 
+				"refrigerated": 24,
+				"Unrefrigerated": 2 
+			},
+			
+            "specialComments": "Send with a 0.2 micron filter, NS is incompatible with NS.",
             "dateUpdated": "",
             "approvedBy": ""
 		}
