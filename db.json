@@ -23,18 +23,13 @@
             "approvedBy": ""
 		},
 		{
-			"genericName": "",
-			"brandName": [ "" ],
-			"usualDoses": {
-				"loadingDose": "",
-				"maintenceDose": ""
+			"genericName": "Amiodarone",
+			"brandName": [ "Corodone" ],
+			"preperationComments": {
+		
 			},
-			"preperation": {
-                 "D5W": "", 
-                 "D5Wmethodstickers":[""],
-                 "NS": "",
-                 "NSmethodstickers":[""]
-                },
+			"preperation": "" 
+                ,
 			"Stabiltiy": {
 				"refrigerated": 0,
 				"Unrefrigerated": 0 
